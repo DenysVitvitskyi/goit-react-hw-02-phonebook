@@ -2,7 +2,7 @@ import { Component } from "react";
 import PropTypes from "prop-types";
 // import { Fragment } from "react/cjs/react.production.min";
 import { Fragment } from "react";
-import ContactItem from "../Components/ContactItem/ContactItem";
+import ContactItem from "../ContactItem/ContactItem";
 
 class ContactList extends Component {
   render() {
