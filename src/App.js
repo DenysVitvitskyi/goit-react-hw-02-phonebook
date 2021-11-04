@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import shortid from "shortid";
 import ContactList from "./ContactList/ContactList";
-import ContactForm from "./components/ContactForm/ContactForm";
+import ContactForm from "./Components/ContactForm/ContactForm";
 import Filter from "./Filter/Filter";
 import "./App.css";
 
